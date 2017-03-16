@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="act1">ACT1</string>
+    <string name="act2">ACT2</string>
+</resources>
